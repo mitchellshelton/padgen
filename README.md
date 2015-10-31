@@ -1,4 +1,4 @@
-# Gen
+# PadGen
 
 > A 16 pad random pattern/song generator
 

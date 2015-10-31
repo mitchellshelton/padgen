@@ -98,6 +98,7 @@ $length_in_minutes = 3;
 
 $final_pattern = $pattern->generatePattern($completed_grid, $bpm, $length_in_minutes);
 
+print '<h1>PadGen</h1>';
 print '<pre>';
 print_r($final_pattern);
 print '</pre>';
